@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidService</string>
+    <string name="segundos">Segundos...</string>
+    <string name="start">Start</string>
+    <string name="app_iniciar">Iniciar</string>
+    <string name="app_stop">Stop</string>
+    <string name="app_parar">Parar</string>
+    <string name="app_atividadeum">Atividade 1</string>
+    <string name="app_atividadedois">Atividade 2</string>
+    <string name="app_timestamp">Print Timestamp</string>
+    <string name="app_stopService">Stop Service</string>
+    <string name="app_atividadetres">Atividade 3</string>
+</resources>
